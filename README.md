@@ -25,6 +25,20 @@ I'm a data engineer working across **Azure, Databricks, Snowflake, SQL, and Pyth
 - 📊 **Analytics:** SQL, dbt, Power BI
 - 🎯 **Focus:** AI Data Engineering and scalable data platforms
 
+### 🏆 Certification
+
+<div align="center">
+
+**Databricks Certified Data Engineer Professional**
+
+**Issued:** September 14, 2026 · **Valid through:** September 14, 2028
+
+[![Databricks Certified Data Engineer Professional](certifications/databricks-data-engineer-professional.png)](certifications/databricks-data-engineer-professional.pdf)
+
+[📄 View certificate (PDF)](certifications/databricks-data-engineer-professional.pdf)
+
+</div>
+
 ### 🧰 My toolkit
 
 <div align="center">
